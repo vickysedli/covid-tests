@@ -1,0 +1,18 @@
+{
+  "name": "covid-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --config .mocharc.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "dotenv": "^16.0.3",
+    "mocha": "^10.1.0",
+    "supertest": "^6.3.1"
+  }
+}
